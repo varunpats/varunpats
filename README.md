@@ -57,4 +57,5 @@ Here is my tech stack,<br>
 
 ###
 
-Feel free to reach out—I'm excited to network with fellow professionals and enthusiasts alike.
+Feel free to reach out — I'm excited to network with fellow professionals and enthusiasts alike.<br>
+Cheers!
