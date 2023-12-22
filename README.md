@@ -17,7 +17,7 @@
 
 <p align="left">
 
-Hello World!<br>
+Hello World!👋<br>
 I'm <strong>Varun Patil</strong> from India.<br><br>
 
 Currently mastering React Native.<br><br>
