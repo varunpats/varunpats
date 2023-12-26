@@ -19,19 +19,14 @@
 
 Hello World!👋<br>
 I'm <strong>Varun Patil</strong> from India.<br><br>
-
-Currently mastering React Native.<br><br>
-
 A passionate Frontend Developer with a urge for crafting responsive, user-friendly interfaces and a 
 proven track record of delivering high-quality web applications.<br><br>
-
 Armed with a strong foundation in React, Angular, Redux, JavaScript, HTML and CSS, I bring a keen eye for design and a commitment to creating 
 seamless user experiences.<br><br>
-
 Adept at collaborating with cross-functional teams to translate business requirements into elegant, efficient code. Proven ability to troubleshoot, optimize, and enhance website 
 performance for optimal user engagement.<br><br>
-
 Here is my tech stack,<br>
+
 ###
 
 <div align="center">
@@ -56,6 +51,7 @@ Here is my tech stack,<br>
 </div>
 
 ###
+Currently mastering React Native.<br><br>
 
 Feel free to reach out — I'm excited to network with fellow professionals and enthusiasts alike.<br>
 Cheers!
