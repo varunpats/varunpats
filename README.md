@@ -52,6 +52,5 @@ Here is my tech stack,<br>
 
 ###
 Currently mastering React Native.<br><br>
-
 Feel free to reach out — I'm excited to network with fellow professionals and enthusiasts alike.<br>
 Cheers!
