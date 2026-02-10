@@ -47,12 +47,6 @@ Here is my tech stack,<br>
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpats&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 Currently mastering React Native.<br><br>
 Feel free to reach out — I'm excited to network with fellow professionals and enthusiasts alike.<br>
 Cheers!
